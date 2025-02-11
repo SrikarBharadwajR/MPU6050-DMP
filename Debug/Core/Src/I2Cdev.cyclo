@@ -1,0 +1,17 @@
+../Core/Src/I2Cdev.c:10:6:I2Cdev_init	1
+../Core/Src/I2Cdev.c:24:8:readBit	1
+../Core/Src/I2Cdev.c:42:8:readBitW	1
+../Core/Src/I2Cdev.c:61:8:readBits	2
+../Core/Src/I2Cdev.c:90:8:readBitsW	2
+../Core/Src/I2Cdev.c:118:8:readByte	1
+../Core/Src/I2Cdev.c:132:8:readWord	1
+../Core/Src/I2Cdev.c:147:8:readBytes	3
+../Core/Src/I2Cdev.c:167:8:readWords	5
+../Core/Src/I2Cdev.c:203:6:writeBit	2
+../Core/Src/I2Cdev.c:219:6:writeBitW	2
+../Core/Src/I2Cdev.c:236:6:writeBits	2
+../Core/Src/I2Cdev.c:270:6:writeBitsW	2
+../Core/Src/I2Cdev.c:302:6:writeByte	1
+../Core/Src/I2Cdev.c:313:6:writeWord	1
+../Core/Src/I2Cdev.c:325:6:writeBytes	1
+../Core/Src/I2Cdev.c:347:6:writeWords	2
